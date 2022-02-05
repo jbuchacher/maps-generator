@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maps-generator/static/css/main.7810ebba.css",
+    "main.js": "/maps-generator/static/js/main.b62a3d58.js",
+    "index.html": "/maps-generator/index.html",
+    "main.7810ebba.css.map": "/maps-generator/static/css/main.7810ebba.css.map",
+    "main.b62a3d58.js.map": "/maps-generator/static/js/main.b62a3d58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7810ebba.css",
+    "static/js/main.b62a3d58.js"
+  ]
+}
