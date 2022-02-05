@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/maps-generator/static/css/main.7810ebba.css",
-    "main.js": "/maps-generator/static/js/main.5ec5557f.js",
+    "main.js": "/maps-generator/static/js/main.af6d9cfe.js",
     "index.html": "/maps-generator/index.html",
     "main.7810ebba.css.map": "/maps-generator/static/css/main.7810ebba.css.map",
-    "main.5ec5557f.js.map": "/maps-generator/static/js/main.5ec5557f.js.map"
+    "main.af6d9cfe.js.map": "/maps-generator/static/js/main.af6d9cfe.js.map"
   },
   "entrypoints": [
     "static/css/main.7810ebba.css",
-    "static/js/main.5ec5557f.js"
+    "static/js/main.af6d9cfe.js"
   ]
 }
